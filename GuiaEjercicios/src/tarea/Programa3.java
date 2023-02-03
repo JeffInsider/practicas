@@ -6,8 +6,8 @@ public class Programa3{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Facturacion");
-        System.out.println("-------------");
+        System.out.println("Facturacion de un producto");
+        System.out.println("----------------------------\n");
         
         System.out.print("Ingrese la cantidad del producto: ");
         int cantidad = sc.nextInt();

@@ -6,8 +6,8 @@ public class Programa2{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Una operacion");
-        System.out.println("--------------");
+        System.out.println("Operacion (a+b)*(a-b)");
+        System.out.println("-----------------------\n");
         
         System.out.print("Ingrese el primer valor: ");
         int valor1 = sc.nextInt();

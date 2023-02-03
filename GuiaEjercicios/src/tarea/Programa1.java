@@ -6,8 +6,8 @@ public class Programa1{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Operaciones");
-        System.out.println("------------");
+        System.out.println("Operaciones suma/resta/multiplicacion/division");
+        System.out.println("---------------------------------------------\n");
         
         System.out.print("Ingrese el primer valor: ");
         double valor1 = sc.nextDouble();

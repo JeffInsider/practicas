@@ -7,7 +7,7 @@ public class Programa7{
         Scanner sc = new Scanner(System.in);
         
         System.out.println("Tablas de multiplicar");
-        System.out.println("-----------------------");
+        System.out.println("-----------------------\n");
         System.out.print("Ingrese un numero: ");
         int numero = sc.nextInt();
         

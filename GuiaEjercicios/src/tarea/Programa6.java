@@ -7,7 +7,7 @@ public class Programa6{
         Scanner sc = new Scanner(System.in);
         
         System.out.println("Dias de la semana");
-        System.out.println("------------------");
+        System.out.println("------------------\n");
         System.out.print("Ingrese un dia de la semana en valor numerico: ");
         int dia = sc.nextInt();
         
@@ -34,7 +34,7 @@ public class Programa6{
                 System.out.println("Domingo");
                 break;
             default:
-                throw new AssertionError();
+                System.out.println("Ingreso un dato incorrecto");
         }
     }
 }
