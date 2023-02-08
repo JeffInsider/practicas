@@ -15,7 +15,6 @@ public class ListarNumeros04{
         for (int i = 1; i <= limite; i++) {
             System.out.println(i);
             
-            
         }
         
     }
