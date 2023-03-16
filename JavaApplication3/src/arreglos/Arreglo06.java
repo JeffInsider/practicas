@@ -41,7 +41,7 @@ public class Arreglo06 {
             System.out.println("");
         }
 
-        int numero2 = 0;
+        /*int numero2 = 0;
         int total = 0;
         for (int f = 0; f < matriz.length; f++) {
             for (int c = 0; c < matriz[f].length; c++) {
@@ -54,9 +54,9 @@ public class Arreglo06 {
 
             }
         }
-
-        System.out.println("La suma de su diagonal es: " + total);
         
+        System.out.println("La suma de su diagonal es: " + total);
+        */
         int suma = 0;
         for (int i = 0; i < matriz.length; i++) {
             suma += matriz[i][i];
