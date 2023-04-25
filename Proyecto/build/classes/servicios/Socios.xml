@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+--><inventario>
+                                                                               
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <socio DNI="0401200201227" Email="franm@gmail.com" direccion="Bo. El Progreso" email="franm@gmail.com" id="1" nombre="Nicoll López" telefono="33947190"/>
+                                                            
+
+
+
+
+    
+    
+    
+        
+
+
+
+
+    
+    
+    
+    
+    
+    <socio DNI="04012002012273" direccion="Bo. El Progreso" email="fran@mail.com" id="2" nombre="Francis Martinez" telefono="2664000"/>
+                    
+
+    
+    
+    
+    <socio DNI="0401200200430" Email="jeff@gmail.com" direccion="B san martin" email="jeff@gmail.com" id="3" nombre="Jeffrey Xavier Mejia " telefono="97753207"/>
+            
+
+    
+
+</inventario>

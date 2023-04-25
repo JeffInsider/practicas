@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+--><inventario>
+                                        
+    
+
+    
+    
+    
+    
+    
+    <libro autor="Edgar Allan Poe" codigo="1" disponibilidad="Si" genero="ficción" titulo="El escarabajo de oro 2002"/>
+                    
+
+
+
+
+    <libro autor="Ricardo" codigo="2" disponibilidad="Si" genero="Aventura" titulo="Ricitos de Oro"/>
+</inventario>
